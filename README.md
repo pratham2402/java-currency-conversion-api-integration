@@ -34,7 +34,8 @@ To run the java program follow these steps-
 4) Make sure you have simple JSON in installed libraries otherwise program will not work.
 5) Replace bin and src folders with the folders cloned from the repo.
 6) Add simple JSON to installed libraries.
-7) Then simply run and debug the project and it will work.
+7) Then open the java file. Replace the field 'YOUR_API_KEY' with your API Key obtained from any relevant website. Website/s are listed in the description.
+8) Then simply run and debug the project and it will work.
 
 ## 📺 Demo
 Coming Soon!
